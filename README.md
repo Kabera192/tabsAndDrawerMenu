@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+This is a project that was done to simply test out the functionality of Flutter's DefaultTabController, Drawer, routes and Navigator Widgets.
 
 ## Getting Started
 
